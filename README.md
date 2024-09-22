@@ -13,7 +13,7 @@ PHP code to determine which reality (Server OS and web app versions) the app is 
     ```bash
     git clone https://github.com/ryananicholson/which-reality --branch i01
     cd which-reality
-    az webapp up --runtime PHP:8.1 --sku B1 --os linux
+    az webapp up --runtime PHP:8.3 --sku B1 --os linux
     ```
 
 1. Acquire URL for web app.
